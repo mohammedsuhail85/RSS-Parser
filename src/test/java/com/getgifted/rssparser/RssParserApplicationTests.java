@@ -14,7 +14,7 @@ import com.getgifted.rssparser.xmlservices.RssXMLParser;
 
 @SpringBootTest
 class RssParserApplicationTests {
-
+	
 	@Autowired
 	private RssFeedService rssFeedService;
 

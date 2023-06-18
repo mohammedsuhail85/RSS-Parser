@@ -12,6 +12,7 @@ import jakarta.persistence.Id;
  * Jun 17, 2023
  * com.getgifted.rssparser.model
  */
+
 @Entity
 public class RssFeed {
 
